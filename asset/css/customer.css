@@ -1,0 +1,41 @@
+
+body{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,'black';
+      background-color: #490b23;
+  }
+  .bg-light{
+      background-color: #dd5d77;
+  }
+  
+  .navbar-brand{
+      font-family: 'Sansita Swashed',cursive;
+      font-size: 1.5rem;
+      color: #62af9e!important;
+  }
+  
+  .nav-link{
+      color: #1a6dd2!important;
+      font-family: 'Noto Sans JP', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  .nav-link:hover{
+      background-color:#e3d5db;
+  }
+  /* navbar css ends here  */
+  
+  .my-info{
+      padding: 2rem 5rem;
+  }
+  
+  .btn-info{
+      padding: 1rem 1.2rem;
+      background-color: rgb(124, 150, 174)!important;
+      color: rgb(187, 132, 132)!important;
+      margin-left: 5px;
+      padding: 0.75rem;
+      transition: all 0.3s;
+  }
+  
+  .btn-info:hover{
+      background-color: rgb(42, 61, 232)!important;
+  }
